@@ -1,4 +1,4 @@
-# Shift Management System
+# Modelling Shift Management System
 
 The Shift Management System is a web application designed to streamline shift scheduling and tracking for small to medium-sized food and beverage businesses. It offers features for both employees and managers to efficiently manage shifts, view assignments, and track worked hours.
 
